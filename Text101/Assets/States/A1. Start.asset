@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01d7aeabecc9eb640b0fbcdd7011fc87, type: 3}
+  m_Name: A1. Start
+  m_EditorClassIdentifier: 
+  storyText: " Zbli\u017Casz si\u0119 do miasta. Nie pami\u0119tasz co si\u0119 sta\u0142o
+    ani kim jeste\u015B. Pami\u0119tasz jedynie \u017Ce zosta\u0142e\u015B wyrzucony
+    z miasta. Zmierzasz w strone rynku.\n\n Po drodze widzisz jak 2 zb\xF3j\xF3w napada
+    na starsz\u0105 kobiet\u0119.\n\n1. Udajesz, \u017Ce nic nie widzisz i idziesz
+    dalej. \n2. Postanawiasz podej\u015B\u0107 i obroni\u0107 staruszk\u0119."
+  nextStates:
+  - {fileID: 11400000, guid: 5de9928d8c865fa488687e9efe753470, type: 2}
+  - {fileID: 11400000, guid: 0abd72e4b9801124db17a31c54c527a4, type: 2}

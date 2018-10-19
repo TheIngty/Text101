@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01d7aeabecc9eb640b0fbcdd7011fc87, type: 3}
+  m_Name: A1.2. IdzieszNaRynek
+  m_EditorClassIdentifier: 
+  storyText: " Powoli zbli\u017Casz si\u0119 do rynku. Stra\u017C idzie w twoim kierunku.
+    Czujesz si\u0119 niepewnie.\n\n1. Skr\u0119casz w ciemn\u0105 uliczk\u0119, aby
+    ukry\u0107 si\u0119 przed stra\u017C\u0105.\n2. Pewnym krokiem kontynuujesz w
+    strone rynku."
+  nextStates:
+  - {fileID: 11400000, guid: f21caf697197e5d4eaff3c257a76ad0f, type: 2}
+  - {fileID: 11400000, guid: a11dd9e98c7374a498ad597b2df4c097, type: 2}

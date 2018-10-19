@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01d7aeabecc9eb640b0fbcdd7011fc87, type: 3}
+  m_Name: A1.1 Pomoc
+  m_EditorClassIdentifier: 
+  storyText: " Postanawiasz pom\xF3c staruszce. Podchodzisz ze jednego ze napastnik\xF3w
+    i og\u0142uszasz go silnym ciosem w g\u0142owe. Drugi rzuca si\u0119 za ciebie.
+    Obrywasz no\u017Cem. Przewracasz go i uderzasz w plecy. Napastnik mdleje.\n\n
+    Staruszka wr\u0119cza ci 10 monet.\n\n1. Kontynuujesz w strone rynku."
+  nextStates:
+  - {fileID: 11400000, guid: a11dd9e98c7374a498ad597b2df4c097, type: 2}
